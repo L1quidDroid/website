@@ -72,10 +72,12 @@ export const skills = {
   toolsAndServices: [
     "Clerk (Auth)",
     "AWS Lambda",
+    "Panther",
     "Illumio",
     "ServiceNow",
     "Jira",
     "Confluence",
+
 
 
   ],
@@ -86,7 +88,7 @@ export const projects = [
     title: "SolSecurity Ethereum Smart Contract Auditing",
     github: "https://github.com/L1quidDroid/SolSecurity",
     description: [
-      "SolSecurity is a web application which can analyse security vulnerabilities within smart contracts written in the Solidity language for the Ethereum blockchain or similar.",
+      "SolSecurity is a web application which can analyse security vulnerabilities within smart contracts written in the Solidity language for the Ethereum blockchain.",
       "Used FastAPI for robust server-side logic and secure data processing.",
       "Implemented AWS services (WAF, ELB) for optimal scaling and enhanced security.",
       "Integrated Slither for in-depth smart contract vulnerability analysis.",
