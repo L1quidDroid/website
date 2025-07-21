@@ -23,7 +23,6 @@ export default function EducationSection() {
               key={edu.institution}
               title={`🎓 ${edu.degree}`}
               subtitle={`🏛️ ${edu.institution}`}
-             
               isLast={index === education.length - 1}
               index={index}
             >

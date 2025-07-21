@@ -22,7 +22,7 @@ const GlassCard = React.forwardRef<HTMLDivElement, GlassCardProps>(
           hoverEffect
             ? {
                 y: -5,
-                transition: { duration: 0.5 },
+                transition: { duration: 0.4 },
               }
             : undefined
         }

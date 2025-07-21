@@ -11,9 +11,10 @@ export const workExperience = [
   {
     company: "ANZ",
     location: "Melbourne, Australia",
-    position: "Software Engineer",
+    position: "👨‍💻 Software Engineer",
     period: "Mar 2025 - Present",
     achievements: [
+      "- Implemented and deployed an automated Front Door system that streamlines JIRA ticket routing by intelligently directing incoming requests to appropriate teams based on predefined criteria, reducing manual triage overhead and improving response times",
       "- Developed and automated security processes using React.js, integrating APIs from Confluence, Jira, Panther, and GitHub to enhance user experience. These tools streamline engagement for security assessments across ANZ Bank for contracts, proofs of concept, apps, and websites.",
       "- Redesigned and enhanced existing dashboards by creating a new reporting interface with QlikSense, Teradata, and GCP, providing leadership with improved insights and empowering data-driven decision-making.",
       "- Led and collaborated with cross-functional teams to successfully migrate Atlassian Confluence to SaaS, ensuring seamless transition, performance optimisation, and alignment with organisational objectives",]
@@ -21,18 +22,19 @@ export const workExperience = [
   {
     company: "ANZ",
     location: "Melbourne, Australia",
-    position: "Microsegmentation Engineer Intern",
+    position: "👨‍💻 Microsegmentation Engineer Intern",
     period: "Nov 2024 - Mar 2025",
     achievements: [
       "- Enhanced internal security by implementing microsegmentation strategies using Illumio, ServiceNow, and Splunk, securing over 10,000 workloads, and reducing internal threat exposure and improving network visibility",
       "- Streamlined team operations by creating comprehensive technical guides that documented configurations and processes, providing clear references for 20 operational team members, and improving on-boarding efficiency.",
+      "- Automated the bulk SaaS migration of 1,000+ production servers by developing and deploying Python and Bash scripts, reducing manual effort and accelerating deployment timelines by over 50\%",
       "- Collaborated across ANZ by effectively communicating security policy changes to cross-functional stakeholders, including the Product Owner, ensuring agent implementation on servers.",
     ],
   },
   {
     company: "Samsung Electronics",
     location: "Melbourne, Australia",
-    position: "Experience Consultant",
+    position: "📲 Experience Consultant",
     period: "Jun 2022 - May 2025",
     achievements: [
       "- Oversee daily business operations, ensuring streamlined workflows and efficiency.",
