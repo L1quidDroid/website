@@ -16,9 +16,7 @@ export const workExperience = [
     achievements: [
       "- Developed and automated security processes using React.js, integrating APIs from Confluence, Jira, Panther, and GitHub to enhance user experience. These tools streamline engagement for security assessments across ANZ Bank for contracts, proofs of concept, apps, and websites.",
       "- Redesigned and enhanced existing dashboards by creating a new reporting interface with QlikSense, Teradata, and GCP, providing leadership with improved insights and empowering data-driven decision-making.",
-      "- Collaborated with cross-functional teams to deliver scalable automation solutions, aligning with organisational goals and maintaining high standards of code quality and performance. ",
-      
-    ],
+      "- Led and collaborated with cross-functional teams to successfully migrate Atlassian Confluence to SaaS, ensuring seamless transition, performance optimisation, and alignment with organisational objectives",]
   },
   {
     company: "ANZ",
@@ -97,7 +95,7 @@ export const projects = [
   },
   {
     title: "Mental Aarog",
-    github: "https://github.com/rishikesh2003/mental-aarog",
+    github: "",
     description: [
       "A holistic mental health app leveraging AI and blockchain for early detection and personalized solutions for depression.",
       "Features include social media analysis (ML-based sentiment tracking), PHQ-9 assessments, smartwatch integration for sleep and activity data, guided meditation, and smart suggestions for food, travel, music, and movies.",
