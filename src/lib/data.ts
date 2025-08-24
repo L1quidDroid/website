@@ -11,7 +11,7 @@ export const workExperience = [
   {
     company: "ANZ",
     location: "Melbourne, Australia",
-    position: "👨‍💻 Software Engineer",
+    position: "👨‍💻 Software Security Engineer",
     period: "Mar 2025 - Present",
     achievements: [
       "- Implemented and deployed an automated Front Door system that streamlines JIRA ticket routing by intelligently directing incoming requests to appropriate teams based on predefined criteria, reducing manual triage overhead and improving response times",
