@@ -138,5 +138,11 @@ export const awards = [
     date: "Sep 2025",
   },
 
+  {
+    name: "Generative AI Leader",
+    issuer: "GCP",
+    date: "Oct 2025",
+  },
+
   
 ];
